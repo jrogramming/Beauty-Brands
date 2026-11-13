@@ -1,7 +1,7 @@
 # ♠ &nbsp; Cosmetic Brand Color Scraper &nbsp; ♠
 
 <p align="center">
-  <em>Automated cosmetic brand color data collection using Python and web scraping.</em>
+  <em>Brand Color Code cosmetic brand color data collection using Python and web scraping.</em>
 </p>
 
 ---
